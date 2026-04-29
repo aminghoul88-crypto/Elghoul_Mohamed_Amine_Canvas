@@ -38,7 +38,7 @@
 
 ## 🌐 Lien GitHub Pages
 
-👉 [Voir le rendu final en ligne](https://aminrafrafi27-a11y.github.io/DrawApp/)
+👉 https://aminghoul88-crypto.github.io/Project_Canvas/
 
 ---
 
@@ -80,5 +80,5 @@ Durant ce projet, nous avons découvert et appris plusieurs concepts nouveaux :
 
 ## 👤 Auteur
 
-- **aminrafrafi27-a11y**
+- **Mohamed Amin Elghoul **
 - Projet réalisé dans le cadre d'un cours de développement web
