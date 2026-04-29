@@ -38,7 +38,7 @@
 
 ## 🌐 Lien GitHub Pages
 
-👉 https://aminghoul88-crypto.github.io/Project_Canvas/
+👉 https://aminghoul88-crypto.github.io/Elghoul_Mohamed_Amine_Canvas/
 
 ---
 
